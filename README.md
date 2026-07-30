@@ -32,8 +32,6 @@ Meu maior combustível hoje é a **fome de aprender**. Tenho grande facilidade p
 - **E-mail:** deborasantos.ffreire@gmail.com
 
 ---
-*“A curiosidade e a vontade de aprender são os melhores códigos-fonte para qualquer transição de sucesso.”*
-
 
 
 
