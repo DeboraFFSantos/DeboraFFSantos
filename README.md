@@ -23,10 +23,6 @@ Tenho grande facilidade para me adaptar a novas ferramentas, entender regras de 
 **Conceitos Fundamentais:**
 `APIs REST` | `Orientação a Objetos (POO)` | `Troubleshooting` | `Lógica de Programação`
 
-### 📊 Estatísticas do GitHub
-<!-- Você pode gerar essas estatísticas dinamicamente conectando seu usuário em ferramentas como o GitHub Readme Stats -->
-[![Suas Estatísticas](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=radical)](https://github.com/SEU_USUARIO_AQUI)
-
 ### 📫 Como me encontrar
 - **LinkedIn:** https://www.linkedin.com/in/debora-ferreira-freire-dos-santos-0904631b7?utm_source=share_via&utm_content=profile&utm_medium=member_ios
 - **E-mail:** deborasantos.ffreire@gmail.com
