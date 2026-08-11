@@ -1,6 +1,6 @@
 ### Olá, sou a Debora 👋
 
-Sou graduada em Análise e Desenvolvimento de Sistemas, trazendo uma base sólida em **Suporte de TI e Infraestrutura** para o desenvolvimento de software. Essa vivência prévia me deu um diferencial prático: facilidade com *troubleshooting*, visão sistêmica de como as aplicações funcionam no mundo real e foco na resolução do problema do usuário.
+Sou graduada em Análise e Desenvolvimento de Sistemas, trazendo uma base sólida em **Suporte de TI e Infraestrutura** para o desenvolvimento de software. Essa vivência prévia me deu um diferencial prático: visão sistêmica de como as aplicações funcionam no mundo real e foco na resolução do problema do usuário.
 
 Tenho grande facilidade para me adaptar a novas ferramentas, entender regras de negócio e evoluir continuamente. Acredito que a tecnologia é a melhor ferramenta para otimizar processos e facilitar o dia a dia.
 
